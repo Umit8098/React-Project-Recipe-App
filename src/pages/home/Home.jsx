@@ -17,8 +17,8 @@ const Home = () => {
   // const [recipes, setRecipes] = useState('');
   const [recipes, setRecipes] = useState(null);
 
-  const APP_ID = process.env.REACT_APP_APP_KEY;
-  const APP_KEY = process.env.REACT_APP_APP_ID;
+  const APP_ID = process.env.REACT_APP_APP_ID;
+  const APP_KEY = process.env.REACT_APP_APP_KEY;
   const EDAMAM_ACCOUNT_USER = process.env.REACT_APP_EDAMAM_ACCOUNT_USER;
 
   const url = `https://api.edamam.com/api/recipes/v2?type=public&q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}&mealType=${selectedMeal}`;
