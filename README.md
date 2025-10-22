@@ -35,12 +35,12 @@
 ## ✨ Overview
 
 <div align="center"> 
-  
-  <img src="./img/recipe.png" alt="recipe-app" width="500"/>
+
+  <img src="./img/recipe.png" alt="recipe-app" width="700"/>
   
   --- 
   
-  <img src="./img/detail.png" alt="recipe-app" width="500"/> 
+  <img src="./img/detail.png" alt="recipe-app" width="700"/> 
 
   ---
 
