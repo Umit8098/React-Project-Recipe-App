@@ -21,6 +21,9 @@
 
 - [Table of Contents](#table-of-contents)
 - [✨ Overview](#-overview)
+- [](#)
+- [](#-1)
+- [](#-2)
 - [📖 Description](#-description)
 - [🚀 Features](#-features)
 - [🗂️ Project Skeleton](#️-project-skeleton)
@@ -36,8 +39,11 @@
 
 <div align="center"> 
   <img src="./img/recipe-home.png" alt="recipe-app" width="500"/> 
-  <img src="./img/recipe-login.png" alt="recipe-app" width="500"/> 
-  <img src="./img/recipe.png" alt="recipe-app" width="500"/> 
+  ---
+  <img src="./img/recipe-login.png" alt="recipe-app" width="500"/>
+  --- 
+  <img src="./img/recipe.png" alt="recipe-app" width="500"/>
+  --- 
   <img src="./img/detail.png" alt="recipe-app" width="500"/> 
 </div>
 
