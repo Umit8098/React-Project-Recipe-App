@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./react-recipe-app.png" alt="React Recipe App" width="800"/>
+  <img src="./img/recipe-app.gif" alt="React Recipe App" width="800"/>
 </p>
 
 <h1 align="center">📌 React Recipe App  </h1>
