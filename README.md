@@ -35,13 +35,6 @@
 ## ✨ Overview
 
 <div align="center"> 
-  <img src="./img/recipe-home.png" alt="recipe-app" width="500"/> 
-
-  ---
-  
-  <img src="./img/recipe-login.png" alt="recipe-app" width="500"/>
-  
-  --- 
   
   <img src="./img/recipe.png" alt="recipe-app" width="500"/>
   
@@ -50,7 +43,7 @@
   <img src="./img/detail.png" alt="recipe-app" width="500"/> 
 
   ---
-  
+
 </div>
 
 - React Recipe App, kullanıcıların Edamam API aracılığıyla yemek tariflerini arayabileceği, detaylı besin değerlerini görüntüleyebileceği modern bir tarif uygulamasıdır.
