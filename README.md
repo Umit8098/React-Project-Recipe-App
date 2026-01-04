@@ -1,6 +1,19 @@
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Router-React%20Router%20v6-CA4245?logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styling-Styled%20Components-db7093?logo=styledcomponents&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Edamam-4CAF50" />
+  <img src="https://img.shields.io/badge/Auth-Private%20Routes-blue" />
+  <img src="https://img.shields.io/badge/Deployment-Netlify-00C7B7?logo=netlify&logoColor=white" />
+</p>
 
 <h1 align="center">📌 React Recipe App  </h1>
+
+<p align="center">
+A modern recipe discovery app with protected routes and third-party API integration.
+</p>
+
 
 <div align="center">
   <h3>
@@ -18,9 +31,8 @@
   <img src="./img/recipe-app.gif" alt="React Recipe App" width="800"/>
 </p>
 
-## Table of Contents
+## Navigation
 
-- [Table of Contents](#table-of-contents)
 - [✨ Overview](#-overview)
 - [📖 Description](#-description)
 - [🚀 Features](#-features)
@@ -31,7 +43,7 @@
 - [🙏 Acknowledgements](#-acknowledgements)
 - [📬 Contact](#-contact)
 
----
+
 
 ## ✨ Overview
 
@@ -50,15 +62,21 @@
 - React Recipe App, kullanıcıların Edamam API aracılığıyla yemek tariflerini arayabileceği, detaylı besin değerlerini görüntüleyebileceği modern bir tarif uygulamasıdır.
 - Kullanıcı girişi (login), özel sayfa koruması (Private Router) ve dinamik yönlendirme özellikleriyle birlikte geliştirilmiştir.
 
----
+
 
 ## 📖 Description
 
-- Bu proje, React Router, Styled Components ve Axios kullanılarak oluşturulmuş bir tarif arama uygulamasıdır.
-- Kullanıcılar arama çubuğuna istedikleri yemeği yazarak Edamam API’sinden veri çekebilir, her tarifin detay sayfasında besin değerlerini ve içeriklerini görüntüleyebilirler.
-- Bazı sayfalar (örneğin About ve Detail) yalnızca giriş yaptıktan sonra erişilebilir.
+This project is a modern recipe search application built with React.
 
----
+Users can search for recipes via the **Edamam Recipe API**, view detailed nutritional information, and navigate between protected and public pages using **React Router v6**.
+
+The application demonstrates:
+- API integration and data fetching with Axios
+- Client-side routing with protected routes (PrivateRouter)
+- Session-based authentication flow
+- Responsive UI design using Styled Components
+
+
 
 ## 🚀 Features
 
@@ -69,10 +87,9 @@
 - 💅 Styled Components ile modern, responsive tasarım
 - 💾 Session Storage ile kullanıcı oturum yönetimi
 - 📱 Mobil uyumlu navbar ve hamburger menü
-- 🚀 Deployed on GitHub Pages
-- 🚀 Netlify üzerinde canlı deploy
+- 🚀 Deployed on Netlify
   
----
+
 
 ## 🗂️ Project Skeleton
 
@@ -132,7 +149,7 @@ src/
  └─ index.js
 ```
 
----
+
 
 ## 🛠️ Built With
 
@@ -167,15 +184,22 @@ $ npm start
 ```
 - Then open http://localhost:3000 to view it in your browser.
 
----
+
 
 ## 📌 About This Project
 
-🔸 Bu proje, Clarusway Frontend Developer eğitimi kapsamında React Router ve API kullanımı konularını pekiştirmek amacıyla geliştirilmiştir.
-🔸 Amaç, kullanıcı giriş kontrolü (PrivateRoute), API entegrasyonu ve responsive tasarımın aynı projede nasıl kullanılabileceğini göstermektir.
-🔸 Proje Netlify üzerinde deploy edilmiştir.
+This project was developed to strengthen core React skills such as routing, API integration, and component-based architecture.
 
----
+It focuses on:
+- Implementing protected routes using React Router
+- Managing authentication state with Session Storage
+- Consuming a third-party REST API
+- Building reusable and styled components
+- Deploying a production-ready frontend application
+
+The project reflects real-world frontend patterns commonly used in modern React applications.
+
+
 
 ## 🙏 Acknowledgements
 
@@ -186,7 +210,7 @@ $ npm start
 - [🍴 Edamam Recipe API](https://developer.edamam.com/edamam-recipe-api) 
 
 
----
+
 
 ## 📬 Contact
 
