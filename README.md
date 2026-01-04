@@ -59,8 +59,8 @@ A modern recipe discovery app with protected routes and third-party API integrat
 
 </div>
 
-- React Recipe App, kullanıcıların Edamam API aracılığıyla yemek tariflerini arayabileceği, detaylı besin değerlerini görüntüleyebileceği modern bir tarif uygulamasıdır.
-- Kullanıcı girişi (login), özel sayfa koruması (Private Router) ve dinamik yönlendirme özellikleriyle birlikte geliştirilmiştir.
+- React Recipe App enables users to discover recipes and explore nutritional details using the Edamam API.
+- The app features an authentication flow with protected pages and dynamic routing for a seamless user experience.
 
 
 
