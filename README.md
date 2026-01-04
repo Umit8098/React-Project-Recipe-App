@@ -55,7 +55,6 @@ A modern recipe discovery app with protected routes and third-party API integrat
   
   <img src="./img/detail.png" alt="recipe-app" width="700"/> 
 
-  ---
 
 </div>
 
